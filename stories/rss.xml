@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chamelemon</title>
+  
+  <subtitle>Ketika pikiran random tertuang dalam blog</subtitle>
+  <link href="/stories/rss.xml" rel="self"/>
+  
+  <link href="https://reorr.github.io/"/>
+  <updated>2018-12-28T10:03:16.187Z</updated>
+  <id>https://reorr.github.io/</id>
+  
+  <author>
+    <name>Muktazam Hasbi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Hello World</title>
+    <link href="https://reorr.github.io/stories/2018/12/28/hello-world/"/>
+    <id>https://reorr.github.io/stories/2018/12/28/hello-world/</id>
+    <published>2018-12-28T10:03:16.187Z</published>
+    <updated>2018-12-28T10:03:16.187Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Ricing Journey</title>
+    <link href="https://reorr.github.io/stories/2018/11/20/my-ricing-journey/"/>
+    <id>https://reorr.github.io/stories/2018/11/20/my-ricing-journey/</id>
+    <published>2018-11-20T14:18:10.000Z</published>
+    <updated>2018-12-31T05:51:34.322Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;As far as i remember i’ve started ricing since early 2015, maybe late 2014 but i couldn’t find the screenshot. Using ElementaryOS as my
+        
+      
+    
+    </summary>
+    
+      <category term="Destop" scheme="https://reorr.github.io/categories/Destop/"/>
+    
+      <category term="Kisah" scheme="https://reorr.github.io/categories/Destop/Kisah/"/>
+    
+      <category term="Linux" scheme="https://reorr.github.io/categories/Destop/Kisah/Linux/"/>
+    
+    
+      <category term="elemetaryos" scheme="https://reorr.github.io/tags/elemetaryos/"/>
+    
+      <category term="manjaro" scheme="https://reorr.github.io/tags/manjaro/"/>
+    
+      <category term="ricing" scheme="https://reorr.github.io/tags/ricing/"/>
+    
+      <category term="archlinux" scheme="https://reorr.github.io/tags/archlinux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ulasan Singkat Planet With</title>
+    <link href="https://reorr.github.io/stories/2018/09/18/ulasan-singkat-planet-with/"/>
+    <id>https://reorr.github.io/stories/2018/09/18/ulasan-singkat-planet-with/</id>
+    <published>2018-09-18T14:40:56.000Z</published>
+    <updated>2018-12-31T05:51:34.325Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/planet-with-header.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Info&quot;&gt;&lt;a href=&quot;#Info&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Kartun" scheme="https://reorr.github.io/categories/Kartun/"/>
+    
+      <category term="Ulasan" scheme="https://reorr.github.io/categories/Kartun/Ulasan/"/>
+    
+    
+      <category term="anime" scheme="https://reorr.github.io/tags/anime/"/>
+    
+      <category term="review" scheme="https://reorr.github.io/tags/review/"/>
+    
+      <category term="planet with" scheme="https://reorr.github.io/tags/planet-with/"/>
+    
+      <category term="summer 2018" scheme="https://reorr.github.io/tags/summer-2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Enable Fingerprint Scanner on Thinkpad Laptop in Archlinux</title>
+    <link href="https://reorr.github.io/stories/2018/08/07/how-to-enable-fingerprint-scanner-on-thinkpad-laptop-in-archlinux/"/>
+    <id>https://reorr.github.io/stories/2018/08/07/how-to-enable-fingerprint-scanner-on-thinkpad-laptop-in-archlinux/</id>
+    <published>2018-08-07T16:00:47.000Z</published>
+    <updated>2018-12-31T05:51:34.319Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/thinkpad_fingerprint.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Yeah, as a linux user i know how tiring is
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://reorr.github.io/categories/Linux/"/>
+    
+      <category term="Thinkpad" scheme="https://reorr.github.io/categories/Linux/Thinkpad/"/>
+    
+      <category term="tutorial" scheme="https://reorr.github.io/categories/Linux/Thinkpad/tutorial/"/>
+    
+    
+      <category term="fingerprint" scheme="https://reorr.github.io/tags/fingerprint/"/>
+    
+      <category term="t430s" scheme="https://reorr.github.io/tags/t430s/"/>
+    
+      <category term="archlinux" scheme="https://reorr.github.io/tags/archlinux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Disassembly Dell Inspiron 1410</title>
+    <link href="https://reorr.github.io/stories/2018/06/11/disassembly-dell-inspiron-1410/"/>
+    <id>https://reorr.github.io/stories/2018/06/11/disassembly-dell-inspiron-1410/</id>
+    <published>2018-06-11T06:04:58.000Z</published>
+    <updated>2018-12-31T05:51:34.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/disassembly-dell.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s been about two months since i’m getting
+        
+      
+    
+    </summary>
+    
+      <category term="hardware" scheme="https://reorr.github.io/categories/hardware/"/>
+    
+      <category term="Kisah" scheme="https://reorr.github.io/categories/hardware/Kisah/"/>
+    
+      <category term="Random" scheme="https://reorr.github.io/categories/hardware/Kisah/Random/"/>
+    
+    
+      <category term="dell" scheme="https://reorr.github.io/tags/dell/"/>
+    
+      <category term="disassembly" scheme="https://reorr.github.io/tags/disassembly/"/>
+    
+      <category term="HDD" scheme="https://reorr.github.io/tags/HDD/"/>
+    
+      <category term="Monitor" scheme="https://reorr.github.io/tags/Monitor/"/>
+    
+      <category term="screw" scheme="https://reorr.github.io/tags/screw/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cara Convert File .Xlxs Menjadi .Vcf</title>
+    <link href="https://reorr.github.io/stories/2018/05/30/cara-convert-file-xlxs-menjadi-vcf/"/>
+    <id>https://reorr.github.io/stories/2018/05/30/cara-convert-file-xlxs-menjadi-vcf/</id>
+    <published>2018-05-30T09:33:18.000Z</published>
+    <updated>2018-12-31T05:51:34.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/convert-vcf.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Jadi gini, sekarang musim maba, jadi saya inisiatif
+        
+      
+    
+    </summary>
+    
+      <category term="cloud" scheme="https://reorr.github.io/categories/cloud/"/>
+    
+      <category term="tutorial" scheme="https://reorr.github.io/categories/cloud/tutorial/"/>
+    
+    
+      <category term="Android" scheme="https://reorr.github.io/tags/Android/"/>
+    
+      <category term="google" scheme="https://reorr.github.io/tags/google/"/>
+    
+      <category term="maba" scheme="https://reorr.github.io/tags/maba/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial Masak Mie Gaga Goreng Rasa Lada Hitam Level 3 Dan Impresi Rasa 🍜</title>
+    <link href="https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa/"/>
+    <id>https://reorr.github.io/stories/2018/01/22/tutorial-masak-mie-gaga-goreng-rasa-lada-hitam-level-3-dan-impresi-rasa/</id>
+    <published>2018-01-22T15:59:30.000Z</published>
+    <updated>2018-12-31T05:51:34.322Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/gaga-header.jpg&quot; alt=&quot;post header&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Bosen saya makan mi rasa itu-itu aja,
+        
+      
+    
+    </summary>
+    
+      <category term="Random" scheme="https://reorr.github.io/categories/Random/"/>
+    
+      <category term="tutorial" scheme="https://reorr.github.io/categories/Random/tutorial/"/>
+    
+      <category term="Ulasan" scheme="https://reorr.github.io/categories/Random/tutorial/Ulasan/"/>
+    
+    
+      <category term="maknyus" scheme="https://reorr.github.io/tags/maknyus/"/>
+    
+      <category term="mie" scheme="https://reorr.github.io/tags/mie/"/>
+    
+      <category term="noodle" scheme="https://reorr.github.io/tags/noodle/"/>
+    
+      <category term="emiya-san chi no kyou no gohan" scheme="https://reorr.github.io/tags/emiya-san-chi-no-kyou-no-gohan/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coding Di Ponsel Android? Kenapa Tidak!</title>
+    <link href="https://reorr.github.io/stories/2017/12/31/coding-di-ponsel-android-kenapa-tidak/"/>
+    <id>https://reorr.github.io/stories/2017/12/31/coding-di-ponsel-android-kenapa-tidak/</id>
+    <published>2017-12-31T13:55:34.000Z</published>
+    <updated>2018-12-31T05:51:34.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/termux-header.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;Hmmm … Jadi gini, laptop saya yang biasa saya
+        
+      
+    
+    </summary>
+    
+      <category term="Alat" scheme="https://reorr.github.io/categories/Alat/"/>
+    
+      <category term="Android" scheme="https://reorr.github.io/categories/Alat/Android/"/>
+    
+      <category term="tutorial" scheme="https://reorr.github.io/categories/Alat/Android/tutorial/"/>
+    
+    
+      <category term="programming" scheme="https://reorr.github.io/tags/programming/"/>
+    
+      <category term="termux" scheme="https://reorr.github.io/tags/termux/"/>
+    
+      <category term="vim" scheme="https://reorr.github.io/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ulasan Singkat Houseki No Kuni</title>
+    <link href="https://reorr.github.io/stories/2017/12/30/ulasan-singkat-houseki-no-kuni/"/>
+    <id>https://reorr.github.io/stories/2017/12/30/ulasan-singkat-houseki-no-kuni/</id>
+    <published>2017-12-29T22:19:04.000Z</published>
+    <updated>2018-12-31T05:51:34.325Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/posts/houseki-no-kuni-full.jpg&quot; alt=&quot;houseki no kuni&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Info&quot;&gt;&lt;a href=&quot;#Info&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Kartun" scheme="https://reorr.github.io/categories/Kartun/"/>
+    
+      <category term="Ulasan" scheme="https://reorr.github.io/categories/Kartun/Ulasan/"/>
+    
+    
+      <category term="anime" scheme="https://reorr.github.io/tags/anime/"/>
+    
+      <category term="fall 2017" scheme="https://reorr.github.io/tags/fall-2017/"/>
+    
+      <category term="houseki no kuni" scheme="https://reorr.github.io/tags/houseki-no-kuni/"/>
+    
+      <category term="review" scheme="https://reorr.github.io/tags/review/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Saya, Pulpstone, Dan LUCI</title>
+    <link href="https://reorr.github.io/stories/2017/12/15/saya-pulpstone-dan-luci/"/>
+    <id>https://reorr.github.io/stories/2017/12/15/saya-pulpstone-dan-luci/</id>
+    <published>2017-12-15T15:24:08.000Z</published>
+    <updated>2018-12-31T04:15:21.889Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Pernah suatu hari, saat mengutak-atik &lt;em&gt;router&lt;/em&gt; saya, saya me-&lt;em&gt;flashnya&lt;/em&gt; dengan Pulpstone LEDE yang tanpa LUCI karena
+        
+      
+    
+    </summary>
+    
+      <category term="Kisah" scheme="https://reorr.github.io/categories/Kisah/"/>
+    
+      <category term="Linux" scheme="https://reorr.github.io/categories/Kisah/Linux/"/>
+    
+    
+      <category term="openwrt" scheme="https://reorr.github.io/tags/openwrt/"/>
+    
+      <category term="deadline" scheme="https://reorr.github.io/tags/deadline/"/>
+    
+      <category term="pulpstone" scheme="https://reorr.github.io/tags/pulpstone/"/>
+    
+  </entry>
+  
+</feed>
