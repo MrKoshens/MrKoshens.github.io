@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="5;url=#">
+    <title>Redirecting...</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            background: url('background2.jpg') no-repeat center center fixed;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #fff;
+        }
+        p {
+            color: #fff;
+            font-size: 1.2em;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Email Redirection</h1>
+    <p>If you are not redirected within 5 seconds, click <a id="redirectLink">here</a> to send an email.</p>
+    
+    <script>
+        // Obfuscated email parts
+        var user = "contact";
+        var domain = "example.com";
+
+        // Create the mailto link dynamically
+        var emailLink = "mailto:" + user + "@" + domain;
+
+        // Set the redirect link
+        document.getElementById("redirectLink").href = emailLink;
+
+        // Automatically redirect after 5 seconds
+        setTimeout(function() {
+            window.location.href = emailLink;
+        }, 5000);
+    </script>
+</body>
+</html>
