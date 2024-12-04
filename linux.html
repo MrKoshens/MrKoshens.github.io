@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="avatar.png">
+    <title>Linux Rices</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #fff;
+            background: url('background2.jpg') no-repeat center center fixed;
+            background-size: cover;
+            font-size: 14px;
+        }
+
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 8px 20px;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            font-size: 12px;
+            /* Smaller font for header */
+        }
+
+        header a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 0 10px;
+        }
+
+        header a:not(:last-child)::after {
+            content: " ";
+            margin-left: 10px;
+            color: #ccc;
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 100px auto;
+            text-align: center;
+        }
+
+        .section {
+            margin: 40px auto;
+            max-width: 800px;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 15px;
+            border-radius: 10px;
+            width: 90%;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            /* Smaller font size for the main heading */
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 0.85em;
+            /* Smaller font for the body text */
+            line-height: 1.4;
+        }
+
+        .rice {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .rice img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .rice h3 {
+            margin: 8px 0;
+            font-size: 1em;
+            /* Smaller font size for rice titles */
+        }
+
+        .rice p {
+            font-size: 0.8em;
+            /* Smaller font size for rice descriptions */
+            margin: 0 15px;
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="index.html">Home</a>
+        <a href="blog.html">Blog</a>
+        <a href="mailto:madhavvermakeshav@gmail.com">Email</a>
+        <a href="https://github.com/MrKoshens">GitHub</a>
+        <a href="https://www.linkedin.com/in/madhav-verma-51214b179/">LinkedIn</a>
+    </header>
+
+    <div class="content">
+        <div class="section">
+            <h1>Linux Rices</h1>
+            <p>Here are some of my Linux rices, each customized to be both beautiful and productive.</p>
+
+            <div class="rice">
+                <h3> Evergreen </h3>
+                <img src="./rice/rice1-screenshot.png" alt="Screenshot of Rice 1">
+                <p> This was one of my first rices I made back in 2021.
+                <p> Host: Lenovo Thinkpad X250 </p>
+                <p> Kernel: 5.16.12-arch1-1 </p>
+                <p> OS: EndeavourOS</p>
+                <p> Shell: Bash</p>
+                <p> WM: i3wm</p>
+                <p> Compositor: picom (ibhagwan's fork)</p>
+                <p> Terminal: Alacritty</p>
+                <p> Status Bar: Polybar</p>
+                <p> Launcher: Rofi</p>
+                <p>File Manager: Ranger</p>
+                <p>GTK Theme: Arc-Dark [GTK2/3]</p>
+                <p> Icons: Paper [GTK2/3]</p>
+                <p>Dotfiles: <a href="https://github.com/MrKoshens/dotfiles" style="color:#00FF00"> [LINK] </a> </p>
+                </p>
+            </div>
+
+            <div class="rice">
+                <h3>Orange Cheesecake</h3>
+                <img src="./rice/rice2-screenshot.jpg" alt="Screenshot of Rice 2">
+                <p>Inspired by an aesthetic cheesecake, this rice includes a bright theme with openbox window manager and a
+                    dark transparent terminal</p>
+                <p> Host: Lenovo Thinkpad X250 </p>
+                <p> Kernel: 5.16.12-arch1-1 </p>
+                <p> OS: EndeavourOS</p>
+                <p> Shell: Bash</p>
+                <p> WM: Openbox</p>
+                <p> WM Theme: Adiantum</p>
+                <p> Compositor: picom (ibhagwan's fork)</p>
+                <p> Terminal: Xfce4-Terminal</p>
+                <p> Status Bar: Polybar</p>
+                <p> Launcher: Rofi</p>
+                <p>File Manager: Ranger</p>
+                <p>Dock: Tint</p>
+                <p>GTK Theme: Lumiere-Magenta [GTK2/3]</p>
+                <p> Icons: Paper [GTK2/3]</p>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

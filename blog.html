@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="avatar.png">
+    <title>Blog - Madhav Verma</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #fff;
+            background: url('background2.jpg') no-repeat center center fixed;
+            background-size: cover;
+            font-size: 14px;
+        }
+
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 10px 20px;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            font-size: 0.9em;
+        }
+
+        header a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 0 15px;
+        }
+
+        header a:not(:last-child)::after {
+            content: " ";
+            margin-left: 15px;
+            color: #ccc;
+        }
+
+        .content {
+            margin: 120px auto;
+            max-width: 800px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            width: 90%;
+            font-size: 0.9em;
+            line-height: 1.6;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section h2 {
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .section p {
+            color: #ccc;
+            text-align: justify;
+        }
+
+        .section a {
+            color: #0f0;
+            text-decoration: none;
+        }
+
+        .section a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="index.html">Home</a>
+        <a href="blog.html">Blog</a>
+        <a href="mailto:madhavvermakeshav@gmail.com">Email</a>
+        <a href="https://github.com/MrKoshens">GitHub</a>
+        <a href="https://www.linkedin.com/in/madhav-verma-51214b179/">LinkedIn</a>
+    </header>
+
+    <div class="content">
+        <div class="section" id="linux-rices">
+            <h2><a href="linux.html">Linux Rices</a></h2>
+            <p>Explore my experiments with Linux ricing, where I customize my Linux machine to be both visually stunning
+                and highly productive. From tweaking desktop environments to creating unique themes and layouts, I aim
+                to showcase the art of Linux customization. Check out some of my rices on my <a
+                    href="https://github.com/MrKoshens">GitHub repository</a> or stay tuned for blog posts detailing my
+                setups and scripts.</p>
+                <p>For more details on ricing, check out <a href="https://www.reddit.com/r/unixporn/">r/Unixporn</a></p>
+        </div>
+
+        <div class="section" id="math-resources">
+            <h2><a href="math.html">Mathematics Olympiad Resources</a></h2>
+            <p>Dive into a collection of curated resources for aspiring mathematicians and problem solvers preparing for
+                mathematics Olympiads. These resources include problem sets, solutions, and tips for competitions like 
+                RMO, NMOS, INMO, IMO, and other prestigious mathematical contests.</p>
+        </div>
+    </div>
+</body>
+
+</html>
