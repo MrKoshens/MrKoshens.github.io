@@ -11,6 +11,7 @@
             background-color: #f4f4f4;
             text-align: center;
             background: url('background2.jpg') no-repeat center center fixed;
+            background-size: cover;
             margin-top: 50px;
         }
         h1 {
@@ -32,14 +33,14 @@
     <p>If you are not redirected within 5 seconds, click <a id="redirectLink">here</a> to send an email.</p>
     
     <script>
-        // Obfuscated email parts
+        // Correctly set the email address parts
         var user = "madhavvermakeshav";
         var domain = "gmail.com";
 
-        // Create the mailto link dynamically
+        // Construct the mailto link dynamically
         var emailLink = "mailto:" + user + "@" + domain;
 
-        // Set the redirect link
+        // Set the href attribute of the link
         document.getElementById("redirectLink").href = emailLink;
 
         // Automatically redirect after 5 seconds
